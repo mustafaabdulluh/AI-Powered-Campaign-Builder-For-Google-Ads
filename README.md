@@ -1,4 +1,4 @@
-# Tarwiiga AI Campaign Builder
+# AI-Powered Campaign Builder for Google Ads
 
 Developed an end-to-end AI automation platform that compresses the Google Ads campaign creation workflow from ~3 days to under 60 seconds. I engineered the full-stack architecture and AI orchestration layer to transform a website or landing page into structured, ready-to-launch marketing campaigns.
 
@@ -25,6 +25,6 @@ Click the image to watch the video on YouTube
 
 [![Introducing Tarwiiga AdGen 🚀](https://img.youtube.com/vi/C8XO-8xytu0/0.jpg)](https://www.youtube.com/watch?v=C8XO-8xytu0)
 
-**AI Campaign Builder Demo**
+**Introducing AI-Powered Campaign Builder for Google Ads 🚀**
 
-[![AI Campaign Builder Demo](https://img.youtube.com/vi/IepSwUGvLFI/0.jpg)](https://www.youtube.com/watch?v=IepSwUGvLFI)
+[![Introducing AI-Powered Campaign Builder for Google Ads 🚀](https://img.youtube.com/vi/IepSwUGvLFI/0.jpg)](https://www.youtube.com/watch?v=IepSwUGvLFI)
