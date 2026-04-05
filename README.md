@@ -19,12 +19,6 @@ TypeScript, Next.js, Python, FastAPI, LangChain (LLMs), Docker, Google Cloud Run
 
 ## Demo 
 
-Click the image to watch the video on YouTube
-
-**Introducing Tarwiiga AdGen 🚀**
-
-[![Introducing Tarwiiga AdGen 🚀](https://img.youtube.com/vi/C8XO-8xytu0/0.jpg)](https://www.youtube.com/watch?v=C8XO-8xytu0)
-
-**Introducing AI-Powered Campaign Builder for Google Ads 🚀**
+**[Introducing AI-Powered Campaign Builder for Google Ads 🚀](https://www.youtube.com/watch?v=IepSwUGvLFI)**
 
 [![Introducing AI-Powered Campaign Builder for Google Ads 🚀](https://img.youtube.com/vi/IepSwUGvLFI/0.jpg)](https://www.youtube.com/watch?v=IepSwUGvLFI)
